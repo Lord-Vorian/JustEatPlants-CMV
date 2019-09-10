@@ -1,0 +1,53 @@
+#Most People Should Be Vegan
+
+Please read my view to ensure you are not arguing against views I don't hold. This is a common problem on this subject. 
+
+####I believe that most people with access to first-world supply chains should follow a balanced plant-based diet and avoid purchasing items containing animal products and by-products. There are three main reasons to hold this view, two of which I subscribe to.
+
+If you accept this as an ideal to strive for but are currently making incremental steps in this direction, you share my view. I'll go through each reason -- and then then close with the caveats I currently know and accept.
+
+##### 1.  **Nutrition**
+
+* *You need more fiber.* Most US citizens consume much less than the [recommended](http://www.nationalacademies.org/hmd/Reports/2002/Dietary-Reference-Intakes-for-Energy-Carbohydrate-Fiber-Fat-Fatty-Acids-Cholesterol-Protein-and-Amino-Acids.aspx) amount of fiber, [according to the USDA ](https://www.ars.usda.gov/ARSUserFiles/80400530/pdf/DBrief/12_fiber_intake_0910.pdf) Avg. of 16 grams versus the 38 recommended. Heart disease is the leading preventable cause of death in the US, and high blood-cholesterol is a positive correlate with heart disease and stroke. Fiber in the diet quickens the flow of stool, [preventing the reabsorption of excess LDL cholesterol ](https://academic.oup.com/nutritionreviews/article-abstract/69/4/171/1909266)which is dumped as waste. In case you think you need cholosterol; you're right. But [the body synthesizes all the cholesterol it needs, ](https://www.nal.usda.gov/sites/default/files/fnic_uploads/DRIEssentialGuideNutReq.pdf)(p.140) leaving no need for diet intake.
+
+* *Pretty much everyone gets enough protein.* According to a massive (n=71,000) [study](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC4081456/) of vegans, vegetarians, and omnivores in all 50 states and parts of Canada, each group gets an average of 70g of protein every day. The recommended daily value is about 40g.
+
+* *Eating meat is bad for you compared to plant sources of nutrition.* **It [increases your risk of cancer](https://www.researchgate.net/publication/262340329_Dietary_exposure_to_meat-related_carcinogenic_substances_Is_there_a_way_to_estimate_the_risk)** by supplying you with too much heme iron which will form NOCs in your body, and when it is browned or blackened by forming HCAs from creatine and amino acids.  **It's [to blame](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2821442/) for tremors** in men later in life. HCAs are actually a class of compounds, one of which is called Harmane. Found in the highest concentrations in cooked chicken, it is found built up in high levels in those with Essential Tremor. **It clogs your arteries.** Meat in general has plenty of animal fat, including cholesterol and will raise your LDL cholesterol when consumed. LDL cholesterol is what the plaques in your veins are made of. When enough of it gathers in one place it *crystallizes* ([no, really!](https://www.youtube.com/watch?v=-pbT2zb-I44)) and bursts the plaque, sending small clumps of razor-sharp fat-crystals down steam. When these clumps flow into an artery too small it blocks blood flow. If this happens in your heart it's called a heart attack. If it happens in your brain it's called stroke. There are many more names for the same problem elsewhere in your body. **It gives you inflammation.** Chicken is actually the worst for this. We produce arachidonic acid to be broken down when it is needed to produce inflammation, around a wound for example. The problem is other animals produce this as well and when we [eat too much of it](https://epi.grants.cancer.gov/diet/foodsources/fatty_acids/table4.html) our inflammation can get out of control, leading to body-wide inflammation responses.  
+
+* *Drinking milk is bad for you compared with milk alternatives.* It can include growth hormones, but even "hormone-free" milk will raise your [IGF-1.](https://en.wikipedia.org/wiki/Insulin-like_growth_factor_1) (our on growth hormone) We produce IGF-1 of course, a lot of it in our youth. It tells our body to grow. Unfortunately it also tells cancer cells to grow, particularly if you have too much of it later in life. It also causes acne, has a possible link to autism, and of course is another source of Cholesterol. (Interestingly, coconuts give you cholesterol as well. They are the only plant source I know of that will significantly raise LDL-cholesterol)
+
+* *Fish caught in the ocean is bad for you.* (Again, compared to plant-sources of nutrition) Our oceans have been polluted with industrial wastes, relevant here being [PCBs](http://seafood.edf.org/pcbs-fish-and-shellfish) and [mercury](https://en.wikipedia.org/wiki/Mercury_in_fish). Both of these are highly toxic, but exist in small amounts in sea food. The reason they are a problem is that they bind to fatty organic tissue, and are thus subject to a phenomenon called "biomagnification." When a tiny particle of something like mercury is absorbed by a plankton, the animal can't get rid of it as a waste product. When that plankton gets eaten by a krill, the krill can't get rid of it. But the krill has eaten many plankton. When the krill is eaten by a fish it has the same problem, only now it has eaten many krill who have eaten many plankton. This is why while mercury exists in only tiny concentrations in the sea, there are toxic levels in fish. The higher on the food chain, the more mercury gets concentrated. The same problem applies to us. Some amount of the mercury we eat in fish will never leave our bodies. Eat one fish and you experience no toxicity. Eat fish over the course of your life time and you will have so much mercury, we can tell how much fish you ate by the [mercury in your toenails.](https://www.ncbi.nlm.nih.gov/pubmed/23899215) I don't have to tell you how toxic mercury is. 
+
+##### 2. **Environment**
+This takes the scientific consensus on anthropogentic climate change as an assumption.
+
+* According to the Food and Agriculture Organization of the United Nations, animal agriculture accounts for roughly 14% of the world's green house gas emissions, as detailed in the 2006 [report.](http://www.fao.org/3/a0701e/a0701e00.htm) This is about the same as the emissions from transportation, although it's [problematic](http://news.trust.org/item/20180918083629-d2wf0) to compare life-cycle agriculture to flat emissions from transportation. 
+
+* A more recent (2018) [study](https://science.sciencemag.org/content/360/6392/987) of some 38,000 farms around the world finds the environmental impact of animal agriculture to be even worse. 
+
+* Deforestation is primarily perpetrated for the cause of agriculture. We are growing food to feed our food. [Only 55% of land crops](https://iopscience.iop.org/article/10.1088/1748-9326/8/3/034015/meta) world wide is grown for human consumption. 36% of world cropland is grown to feed livestock. This is inefficient. From the same study you'll find that  for every 100 calories of grain you will only receive 12 calories if you convert it into chicken meat, or 3 calories if you turn it into beef. (By growing the respective feed-crop for the animal and growing the animal on it instead of growing grain. Feed-crops are usually not human-edible ) If fewer people demand meat, there will need to be more crop land use for people-food. But since plant food is more efficient less land in total will be needed; it follows that there will be less of a demand to clear land for crops. *Which means places like Brazil won't be set on fire by ranchers. (unsubstantiated)*
+
+* Pollution from animal agriculture in poorly-regulated countries is significant. 
+
+##### 3. **Ethics**
+Basically, the suffering of animals. My moral framework is too relativistic and unstructured to hold this view. In fact I am a speciesist and am "on the side" of humans generally, preferring human life to other forms of life. The only case where I deviate from my pro-humanism is in the hypothetical choice between humanity and ALL other life. Thus, **Justifying veganism on ethical grounds other than where it impacts humanity is not my view, and I will not defend this tenant.** Feel free to try and change my view on it however, as it is my least-developed and most vulnerable non-reason.
+
+_______________________________________________
+**Caveats**:
+
+There are more nuances and sources to the two relevant reasons, and I will do my best to expand on them in our discussion where it is needed.  Before you move on to your argument, note that I have recognized caveats to my position. These are a list of clarifications and stipulations I accept as part of my view. **If you convince me to add a caveat to this list, I will consider my view to have changed:**
+
+* Vitamin B-12 is an essential nutrient produced when microorganisms in the soil and in the gut process cobalt. Small traces of cobalt left in the dirt on plant food are what allow animals to produce B-12. The same would be true for us if we were still hunting and gathering. The problem is that much of the crop land has been depleted of cobalt. The result is that meat-livestock is now supplemented with B-12 and other essential nutrients. Plant sources of these supplements exist and are affordable, and using a cow to carry the supplement into your body is an unnecessary step.
+
+* By "should" I am invoking a moral responsibility. I am not advocating that the state compel you to eat a specific diet. Mine is not a policy argument.
+
+* Some people are allergic to/for some medical reason cannot eat foods essential to a balanced plant-based diet. (like grains, legumes, etc.) These people are excluded from my most-not-all category.
+
+* Some people live in regions in the world with supply chains too underdeveloped to support a plant based diet year-round. These people require the nutrition stored in the form of flesh and other animal products to survive. Excluded.
+
+* Some people live in regions of the world where there is a lack of arable land. Such people depend on animals to convert inedible grasses and other rough vegetation into food they can eat, or a product they can sell. Excluded.
+
+* Responsible livestock management can be used to restore soil viability and reverse desertification. There exists a hypothesis of responsible land management which uses "full life" animal agriculture to maintain a balanced prairie ecosystem while producing expensive meat. *Untested* as far as I know.
+
+###Change my view!
+I rarely write, so each sentence takes painfully long to compose. When I reply to you I hope you read my fretting, brow-furrowed expression into each line **; )**
