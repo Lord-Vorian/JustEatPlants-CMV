@@ -1,8 +1,8 @@
-#Most People Should Be Vegan
+# Most People Should Be Vegan
 
 Please read my view to ensure you are not arguing against views I don't hold. This is a common problem on this subject. 
 
-####I believe that most people with access to first-world supply chains should follow a balanced plant-based diet and avoid purchasing items containing animal products and by-products. There are three main reasons to hold this view, two of which I subscribe to.
+#### I believe that most people with access to first-world supply chains should follow a balanced plant-based diet and avoid purchasing items containing animal products and by-products. There are three main reasons to hold this view, two of which I subscribe to.
 
 If you accept this as an ideal to strive for but are currently making incremental steps in this direction, you share my view. I'll go through each reason -- and then then close with the caveats I currently know and accept.
 
@@ -49,5 +49,5 @@ There are more nuances and sources to the two relevant reasons, and I will do my
 
 * Responsible livestock management can be used to restore soil viability and reverse desertification. There exists a hypothesis of responsible land management which uses "full life" animal agriculture to maintain a balanced prairie ecosystem while producing expensive meat. *Untested* as far as I know.
 
-###Change my view!
+### Change my view!
 I rarely write, so each sentence takes painfully long to compose. When I reply to you I hope you read my fretting, brow-furrowed expression into each line **; )**
